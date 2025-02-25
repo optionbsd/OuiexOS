@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ouiex.png" alt="OuiexOS Logo" width="400">
+  <img src="ouiexos.png" alt="OuiexOS Logo" width="400">
 </p>
 
 OuiexOS is a 32-bit operating system. Instead of traditional Makefiles, it utilizes Python scripts for its build process. OuiexOS - is an upgrade of NexOS
